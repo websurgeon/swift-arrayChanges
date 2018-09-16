@@ -7,20 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D025662D213004B300B3D7C9 /* TemplateFrameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862273212FF79000AD9D44 /* TemplateFrameworkTests.swift */; };
-		D0862201212FF11A00AD9D44 /* TemplateFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D08621F7212FF11A00AD9D44 /* TemplateFramework.framework */; };
-		D086221D212FF13000AD9D44 /* TemplateFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0862214212FF13000AD9D44 /* TemplateFramework.framework */; };
-		D0862246212FF15D00AD9D44 /* TemplateFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D086223D212FF15D00AD9D44 /* TemplateFramework.framework */; };
-		D086226F212FF6F500AD9D44 /* TemplateFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = D0862261212FF5FB00AD9D44 /* TemplateFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D0862270212FF6F600AD9D44 /* TemplateFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = D0862261212FF5FB00AD9D44 /* TemplateFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D0862271212FF6FA00AD9D44 /* TemplateFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = D0862261212FF5FB00AD9D44 /* TemplateFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D0862272212FF6FB00AD9D44 /* TemplateFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = D0862261212FF5FB00AD9D44 /* TemplateFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D0862274212FF79000AD9D44 /* TemplateFrameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862273212FF79000AD9D44 /* TemplateFrameworkTests.swift */; };
-		D0862276212FF7BD00AD9D44 /* TemplateFramework.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862275212FF7BD00AD9D44 /* TemplateFramework.swift */; };
-		D0862277212FF81400AD9D44 /* TemplateFramework.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862275212FF7BD00AD9D44 /* TemplateFramework.swift */; };
-		D0862278212FF81500AD9D44 /* TemplateFramework.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862275212FF7BD00AD9D44 /* TemplateFramework.swift */; };
-		D0862279212FF81600AD9D44 /* TemplateFramework.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862275212FF7BD00AD9D44 /* TemplateFramework.swift */; };
-		D086227A212FF81A00AD9D44 /* TemplateFrameworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862273212FF79000AD9D44 /* TemplateFrameworkTests.swift */; };
+		D025662D213004B300B3D7C9 /* ArrayChangesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862273212FF79000AD9D44 /* ArrayChangesTests.swift */; };
+		D0862201212FF11A00AD9D44 /* ArrayChanges.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D08621F7212FF11A00AD9D44 /* ArrayChanges.framework */; };
+		D086221D212FF13000AD9D44 /* ArrayChanges.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0862214212FF13000AD9D44 /* ArrayChanges.framework */; };
+		D0862246212FF15D00AD9D44 /* ArrayChanges.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D086223D212FF15D00AD9D44 /* ArrayChanges.framework */; };
+		D086226F212FF6F500AD9D44 /* ArrayChanges.h in Headers */ = {isa = PBXBuildFile; fileRef = D0862261212FF5FB00AD9D44 /* ArrayChanges.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D0862270212FF6F600AD9D44 /* ArrayChanges.h in Headers */ = {isa = PBXBuildFile; fileRef = D0862261212FF5FB00AD9D44 /* ArrayChanges.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D0862271212FF6FA00AD9D44 /* ArrayChanges.h in Headers */ = {isa = PBXBuildFile; fileRef = D0862261212FF5FB00AD9D44 /* ArrayChanges.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D0862272212FF6FB00AD9D44 /* ArrayChanges.h in Headers */ = {isa = PBXBuildFile; fileRef = D0862261212FF5FB00AD9D44 /* ArrayChanges.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D0862274212FF79000AD9D44 /* ArrayChangesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862273212FF79000AD9D44 /* ArrayChangesTests.swift */; };
+		D0862276212FF7BD00AD9D44 /* ArrayChanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862275212FF7BD00AD9D44 /* ArrayChanges.swift */; };
+		D0862277212FF81400AD9D44 /* ArrayChanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862275212FF7BD00AD9D44 /* ArrayChanges.swift */; };
+		D0862278212FF81500AD9D44 /* ArrayChanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862275212FF7BD00AD9D44 /* ArrayChanges.swift */; };
+		D0862279212FF81600AD9D44 /* ArrayChanges.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862275212FF7BD00AD9D44 /* ArrayChanges.swift */; };
+		D086227A212FF81A00AD9D44 /* ArrayChangesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0862273212FF79000AD9D44 /* ArrayChangesTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,23 +48,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D08621F7212FF11A00AD9D44 /* TemplateFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TemplateFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D08621F7212FF11A00AD9D44 /* ArrayChanges.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ArrayChanges.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D08621FB212FF11A00AD9D44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D0862200212FF11A00AD9D44 /* TemplateFrameworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TemplateFrameworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0862200212FF11A00AD9D44 /* ArrayChangesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ArrayChangesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0862207212FF11A00AD9D44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D0862214212FF13000AD9D44 /* TemplateFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TemplateFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0862214212FF13000AD9D44 /* ArrayChanges.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ArrayChanges.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0862217212FF13000AD9D44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D086221C212FF13000AD9D44 /* TemplateFrameworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TemplateFrameworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D086221C212FF13000AD9D44 /* ArrayChangesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ArrayChangesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0862223212FF13000AD9D44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D0862230212FF14300AD9D44 /* TemplateFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TemplateFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0862230212FF14300AD9D44 /* ArrayChanges.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ArrayChanges.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0862233212FF14300AD9D44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D086223D212FF15D00AD9D44 /* TemplateFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = TemplateFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D086223D212FF15D00AD9D44 /* ArrayChanges.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ArrayChanges.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0862240212FF15D00AD9D44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D0862245212FF15D00AD9D44 /* TemplateFrameworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TemplateFrameworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0862245212FF15D00AD9D44 /* ArrayChangesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ArrayChangesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D086224C212FF15D00AD9D44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D0862261212FF5FB00AD9D44 /* TemplateFramework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TemplateFramework.h; sourceTree = "<group>"; };
-		D0862273212FF79000AD9D44 /* TemplateFrameworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateFrameworkTests.swift; sourceTree = "<group>"; };
-		D0862275212FF7BD00AD9D44 /* TemplateFramework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateFramework.swift; sourceTree = "<group>"; };
+		D0862261212FF5FB00AD9D44 /* ArrayChanges.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ArrayChanges.h; sourceTree = "<group>"; };
+		D0862273212FF79000AD9D44 /* ArrayChangesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayChangesTests.swift; sourceTree = "<group>"; };
+		D0862275212FF7BD00AD9D44 /* ArrayChanges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayChanges.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +79,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0862201212FF11A00AD9D44 /* TemplateFramework.framework in Frameworks */,
+				D0862201212FF11A00AD9D44 /* ArrayChanges.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,7 +94,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D086221D212FF13000AD9D44 /* TemplateFramework.framework in Frameworks */,
+				D086221D212FF13000AD9D44 /* ArrayChanges.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -116,7 +116,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0862246212FF15D00AD9D44 /* TemplateFramework.framework in Frameworks */,
+				D0862246212FF15D00AD9D44 /* ArrayChanges.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -126,7 +126,7 @@
 		D025662F2130078300B3D7C9 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
-				D0862260212FF5C400AD9D44 /* TemplateFrameworkTests */,
+				D0862260212FF5C400AD9D44 /* ArrayChangesTests */,
 			);
 			path = Tests;
 			sourceTree = "<group>";
@@ -143,13 +143,13 @@
 		D08621F8212FF11A00AD9D44 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D08621F7212FF11A00AD9D44 /* TemplateFramework.framework */,
-				D0862200212FF11A00AD9D44 /* TemplateFrameworkTests.xctest */,
-				D0862214212FF13000AD9D44 /* TemplateFramework.framework */,
-				D086221C212FF13000AD9D44 /* TemplateFrameworkTests.xctest */,
-				D0862230212FF14300AD9D44 /* TemplateFramework.framework */,
-				D086223D212FF15D00AD9D44 /* TemplateFramework.framework */,
-				D0862245212FF15D00AD9D44 /* TemplateFrameworkTests.xctest */,
+				D08621F7212FF11A00AD9D44 /* ArrayChanges.framework */,
+				D0862200212FF11A00AD9D44 /* ArrayChangesTests.xctest */,
+				D0862214212FF13000AD9D44 /* ArrayChanges.framework */,
+				D086221C212FF13000AD9D44 /* ArrayChangesTests.xctest */,
+				D0862230212FF14300AD9D44 /* ArrayChanges.framework */,
+				D086223D212FF15D00AD9D44 /* ArrayChanges.framework */,
+				D0862245212FF15D00AD9D44 /* ArrayChangesTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -157,7 +157,7 @@
 		D0862254212FF1F900AD9D44 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				D086225F212FF59C00AD9D44 /* TemplateFramework */,
+				D086225F212FF59C00AD9D44 /* ArrayChanges */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -239,23 +239,23 @@
 			path = tvOS;
 			sourceTree = "<group>";
 		};
-		D086225F212FF59C00AD9D44 /* TemplateFramework */ = {
+		D086225F212FF59C00AD9D44 /* ArrayChanges */ = {
 			isa = PBXGroup;
 			children = (
 				D0862259212FF24300AD9D44 /* platform */,
-				D0862261212FF5FB00AD9D44 /* TemplateFramework.h */,
-				D0862275212FF7BD00AD9D44 /* TemplateFramework.swift */,
+				D0862261212FF5FB00AD9D44 /* ArrayChanges.h */,
+				D0862275212FF7BD00AD9D44 /* ArrayChanges.swift */,
 			);
-			path = TemplateFramework;
+			path = ArrayChanges;
 			sourceTree = "<group>";
 		};
-		D0862260212FF5C400AD9D44 /* TemplateFrameworkTests */ = {
+		D0862260212FF5C400AD9D44 /* ArrayChangesTests */ = {
 			isa = PBXGroup;
 			children = (
 				D086225A212FF25500AD9D44 /* platform */,
-				D0862273212FF79000AD9D44 /* TemplateFrameworkTests.swift */,
+				D0862273212FF79000AD9D44 /* ArrayChangesTests.swift */,
 			);
-			path = TemplateFrameworkTests;
+			path = ArrayChangesTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -265,7 +265,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D086226F212FF6F500AD9D44 /* TemplateFramework.h in Headers */,
+				D086226F212FF6F500AD9D44 /* ArrayChanges.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +273,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0862270212FF6F600AD9D44 /* TemplateFramework.h in Headers */,
+				D0862270212FF6F600AD9D44 /* ArrayChanges.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,7 +281,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0862271212FF6FA00AD9D44 /* TemplateFramework.h in Headers */,
+				D0862271212FF6FA00AD9D44 /* ArrayChanges.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,16 +289,16 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0862272212FF6FB00AD9D44 /* TemplateFramework.h in Headers */,
+				D0862272212FF6FB00AD9D44 /* ArrayChanges.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		D08621F6212FF11A00AD9D44 /* TemplateFramework-iOS */ = {
+		D08621F6212FF11A00AD9D44 /* ArrayChanges-iOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D086220D212FF11A00AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-iOS" */;
+			buildConfigurationList = D086220D212FF11A00AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-iOS" */;
 			buildPhases = (
 				D08621F2212FF11A00AD9D44 /* Sources */,
 				D08621F3212FF11A00AD9D44 /* Frameworks */,
@@ -309,14 +309,14 @@
 			);
 			dependencies = (
 			);
-			name = "TemplateFramework-iOS";
+			name = "ArrayChanges-iOS";
 			productName = "TemplateFramework-iOS";
-			productReference = D08621F7212FF11A00AD9D44 /* TemplateFramework.framework */;
+			productReference = D08621F7212FF11A00AD9D44 /* ArrayChanges.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		D08621FF212FF11A00AD9D44 /* TemplateFramework-iOSTests */ = {
+		D08621FF212FF11A00AD9D44 /* ArrayChanges-iOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D086220E212FF11A00AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-iOSTests" */;
+			buildConfigurationList = D086220E212FF11A00AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-iOSTests" */;
 			buildPhases = (
 				D08621FC212FF11A00AD9D44 /* Sources */,
 				D08621FD212FF11A00AD9D44 /* Frameworks */,
@@ -327,14 +327,14 @@
 			dependencies = (
 				D0862203212FF11A00AD9D44 /* PBXTargetDependency */,
 			);
-			name = "TemplateFramework-iOSTests";
+			name = "ArrayChanges-iOSTests";
 			productName = "TemplateFramework-iOSTests";
-			productReference = D0862200212FF11A00AD9D44 /* TemplateFrameworkTests.xctest */;
+			productReference = D0862200212FF11A00AD9D44 /* ArrayChangesTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D0862213212FF13000AD9D44 /* TemplateFramework-macOS */ = {
+		D0862213212FF13000AD9D44 /* ArrayChanges-macOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D0862225212FF13000AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-macOS" */;
+			buildConfigurationList = D0862225212FF13000AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-macOS" */;
 			buildPhases = (
 				D086220F212FF13000AD9D44 /* Sources */,
 				D0862210212FF13000AD9D44 /* Frameworks */,
@@ -345,14 +345,14 @@
 			);
 			dependencies = (
 			);
-			name = "TemplateFramework-macOS";
+			name = "ArrayChanges-macOS";
 			productName = "TemplateFramework-macOS";
-			productReference = D0862214212FF13000AD9D44 /* TemplateFramework.framework */;
+			productReference = D0862214212FF13000AD9D44 /* ArrayChanges.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		D086221B212FF13000AD9D44 /* TemplateFramework-macOSTests */ = {
+		D086221B212FF13000AD9D44 /* ArrayChanges-macOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D0862228212FF13000AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-macOSTests" */;
+			buildConfigurationList = D0862228212FF13000AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-macOSTests" */;
 			buildPhases = (
 				D0862218212FF13000AD9D44 /* Sources */,
 				D0862219212FF13000AD9D44 /* Frameworks */,
@@ -363,14 +363,14 @@
 			dependencies = (
 				D086221F212FF13000AD9D44 /* PBXTargetDependency */,
 			);
-			name = "TemplateFramework-macOSTests";
+			name = "ArrayChanges-macOSTests";
 			productName = "TemplateFramework-macOSTests";
-			productReference = D086221C212FF13000AD9D44 /* TemplateFrameworkTests.xctest */;
+			productReference = D086221C212FF13000AD9D44 /* ArrayChangesTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D086222F212FF14300AD9D44 /* TemplateFramework-watchOS */ = {
+		D086222F212FF14300AD9D44 /* ArrayChanges-watchOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D0862235212FF14300AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-watchOS" */;
+			buildConfigurationList = D0862235212FF14300AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-watchOS" */;
 			buildPhases = (
 				D086222B212FF14300AD9D44 /* Sources */,
 				D086222C212FF14300AD9D44 /* Frameworks */,
@@ -381,14 +381,14 @@
 			);
 			dependencies = (
 			);
-			name = "TemplateFramework-watchOS";
+			name = "ArrayChanges-watchOS";
 			productName = "TemplateFramework-watchOS";
-			productReference = D0862230212FF14300AD9D44 /* TemplateFramework.framework */;
+			productReference = D0862230212FF14300AD9D44 /* ArrayChanges.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		D086223C212FF15D00AD9D44 /* TemplateFramework-tvOS */ = {
+		D086223C212FF15D00AD9D44 /* ArrayChanges-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D086224E212FF15D00AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-tvOS" */;
+			buildConfigurationList = D086224E212FF15D00AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-tvOS" */;
 			buildPhases = (
 				D0862238212FF15D00AD9D44 /* Sources */,
 				D0862239212FF15D00AD9D44 /* Frameworks */,
@@ -399,14 +399,14 @@
 			);
 			dependencies = (
 			);
-			name = "TemplateFramework-tvOS";
+			name = "ArrayChanges-tvOS";
 			productName = "TemplateFramework-tvOS";
-			productReference = D086223D212FF15D00AD9D44 /* TemplateFramework.framework */;
+			productReference = D086223D212FF15D00AD9D44 /* ArrayChanges.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		D0862244212FF15D00AD9D44 /* TemplateFramework-tvOSTests */ = {
+		D0862244212FF15D00AD9D44 /* ArrayChanges-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D0862251212FF15D00AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-tvOSTests" */;
+			buildConfigurationList = D0862251212FF15D00AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-tvOSTests" */;
 			buildPhases = (
 				D0862241212FF15D00AD9D44 /* Sources */,
 				D0862242212FF15D00AD9D44 /* Frameworks */,
@@ -417,9 +417,9 @@
 			dependencies = (
 				D0862248212FF15D00AD9D44 /* PBXTargetDependency */,
 			);
-			name = "TemplateFramework-tvOSTests";
+			name = "ArrayChanges-tvOSTests";
 			productName = "TemplateFramework-tvOSTests";
-			productReference = D0862245212FF15D00AD9D44 /* TemplateFrameworkTests.xctest */;
+			productReference = D0862245212FF15D00AD9D44 /* ArrayChangesTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -456,7 +456,7 @@
 					};
 				};
 			};
-			buildConfigurationList = D0862173212FECDC00AD9D44 /* Build configuration list for PBXProject "TemplateFramework" */;
+			buildConfigurationList = D0862173212FECDC00AD9D44 /* Build configuration list for PBXProject "ArrayChanges" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -468,13 +468,13 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D08621F6212FF11A00AD9D44 /* TemplateFramework-iOS */,
-				D08621FF212FF11A00AD9D44 /* TemplateFramework-iOSTests */,
-				D0862213212FF13000AD9D44 /* TemplateFramework-macOS */,
-				D086221B212FF13000AD9D44 /* TemplateFramework-macOSTests */,
-				D086222F212FF14300AD9D44 /* TemplateFramework-watchOS */,
-				D086223C212FF15D00AD9D44 /* TemplateFramework-tvOS */,
-				D0862244212FF15D00AD9D44 /* TemplateFramework-tvOSTests */,
+				D08621F6212FF11A00AD9D44 /* ArrayChanges-iOS */,
+				D08621FF212FF11A00AD9D44 /* ArrayChanges-iOSTests */,
+				D0862213212FF13000AD9D44 /* ArrayChanges-macOS */,
+				D086221B212FF13000AD9D44 /* ArrayChanges-macOSTests */,
+				D086222F212FF14300AD9D44 /* ArrayChanges-watchOS */,
+				D086223C212FF15D00AD9D44 /* ArrayChanges-tvOS */,
+				D0862244212FF15D00AD9D44 /* ArrayChanges-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -536,7 +536,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0862276212FF7BD00AD9D44 /* TemplateFramework.swift in Sources */,
+				D0862276212FF7BD00AD9D44 /* ArrayChanges.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -544,7 +544,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0862274212FF79000AD9D44 /* TemplateFrameworkTests.swift in Sources */,
+				D0862274212FF79000AD9D44 /* ArrayChangesTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -552,7 +552,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0862277212FF81400AD9D44 /* TemplateFramework.swift in Sources */,
+				D0862277212FF81400AD9D44 /* ArrayChanges.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -560,7 +560,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D086227A212FF81A00AD9D44 /* TemplateFrameworkTests.swift in Sources */,
+				D086227A212FF81A00AD9D44 /* ArrayChangesTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -568,7 +568,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0862278212FF81500AD9D44 /* TemplateFramework.swift in Sources */,
+				D0862278212FF81500AD9D44 /* ArrayChanges.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -576,7 +576,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0862279212FF81600AD9D44 /* TemplateFramework.swift in Sources */,
+				D0862279212FF81600AD9D44 /* ArrayChanges.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -584,7 +584,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D025662D213004B300B3D7C9 /* TemplateFrameworkTests.swift in Sources */,
+				D025662D213004B300B3D7C9 /* ArrayChangesTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -593,17 +593,17 @@
 /* Begin PBXTargetDependency section */
 		D0862203212FF11A00AD9D44 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D08621F6212FF11A00AD9D44 /* TemplateFramework-iOS */;
+			target = D08621F6212FF11A00AD9D44 /* ArrayChanges-iOS */;
 			targetProxy = D0862202212FF11A00AD9D44 /* PBXContainerItemProxy */;
 		};
 		D086221F212FF13000AD9D44 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D0862213212FF13000AD9D44 /* TemplateFramework-macOS */;
+			target = D0862213212FF13000AD9D44 /* ArrayChanges-macOS */;
 			targetProxy = D086221E212FF13000AD9D44 /* PBXContainerItemProxy */;
 		};
 		D0862248212FF15D00AD9D44 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D086223C212FF15D00AD9D44 /* TemplateFramework-tvOS */;
+			target = D086223C212FF15D00AD9D44 /* ArrayChanges-tvOS */;
 			targetProxy = D0862247212FF15D00AD9D44 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -681,7 +681,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Sources/TemplateFramework/platform/iOS/Info.plist;
+				INFOPLIST_FILE = Sources/ArrayChanges/platform/iOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -692,7 +692,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)";
-				PRODUCT_NAME = "$(PROJECT_NAME)";
+				PRODUCT_NAME = ArrayChanges;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -756,7 +756,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Sources/TemplateFramework/platform/iOS/Info.plist;
+				INFOPLIST_FILE = Sources/ArrayChanges/platform/iOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -766,7 +766,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)";
-				PRODUCT_NAME = "$(PROJECT_NAME)";
+				PRODUCT_NAME = ArrayChanges;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -833,7 +833,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Tests/TemplateFrameworkTests/platform/iOS/Info.plist;
+				INFOPLIST_FILE = Tests/ArrayChangesTests/platform/iOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -843,7 +843,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)Tests";
-				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
+				PRODUCT_NAME = ArrayChangesTests;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -900,7 +900,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Tests/TemplateFrameworkTests/platform/iOS/Info.plist;
+				INFOPLIST_FILE = Tests/ArrayChangesTests/platform/iOS/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -909,7 +909,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)Tests";
-				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
+				PRODUCT_NAME = ArrayChangesTests;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -979,7 +979,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Sources/TemplateFramework/platform/macOS/Info.plist;
+				INFOPLIST_FILE = Sources/ArrayChanges/platform/macOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -990,7 +990,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)";
-				PRODUCT_NAME = "$(PROJECT_NAME)";
+				PRODUCT_NAME = ArrayChanges;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -1055,7 +1055,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Sources/TemplateFramework/platform/macOS/Info.plist;
+				INFOPLIST_FILE = Sources/ArrayChanges/platform/macOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1065,7 +1065,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)";
-				PRODUCT_NAME = "$(PROJECT_NAME)";
+				PRODUCT_NAME = ArrayChanges;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -1131,7 +1131,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Tests/TemplateFrameworkTests/platform/macOS/Info.plist;
+				INFOPLIST_FILE = Tests/ArrayChangesTests/platform/macOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -1141,7 +1141,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)Tests";
-				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
+				PRODUCT_NAME = ArrayChangesTests;
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1198,7 +1198,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Tests/TemplateFrameworkTests/platform/macOS/Info.plist;
+				INFOPLIST_FILE = Tests/ArrayChangesTests/platform/macOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -1207,7 +1207,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)Tests";
-				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
+				PRODUCT_NAME = ArrayChangesTests;
 				SDKROOT = macosx;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -1274,7 +1274,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Sources/TemplateFramework/platform/watchOS/Info.plist;
+				INFOPLIST_FILE = Sources/ArrayChanges/platform/watchOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1284,7 +1284,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)";
-				PRODUCT_NAME = "$(PROJECT_NAME)";
+				PRODUCT_NAME = ArrayChanges;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -1350,7 +1350,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Sources/TemplateFramework/platform/watchOS/Info.plist;
+				INFOPLIST_FILE = Sources/ArrayChanges/platform/watchOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1359,7 +1359,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)";
-				PRODUCT_NAME = "$(PROJECT_NAME)";
+				PRODUCT_NAME = ArrayChanges;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -1431,7 +1431,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Sources/TemplateFramework/platform/tvOS/Info.plist;
+				INFOPLIST_FILE = Sources/ArrayChanges/platform/tvOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1441,7 +1441,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)";
-				PRODUCT_NAME = "$(PROJECT_NAME)";
+				PRODUCT_NAME = ArrayChanges;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -1506,7 +1506,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Sources/TemplateFramework/platform/tvOS/Info.plist;
+				INFOPLIST_FILE = Sources/ArrayChanges/platform/tvOS/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1515,7 +1515,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)";
-				PRODUCT_NAME = "$(PROJECT_NAME)";
+				PRODUCT_NAME = ArrayChanges;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -1582,7 +1582,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Tests/TemplateFrameworkTests/platform/tvOS/Info.plist;
+				INFOPLIST_FILE = Tests/ArrayChangesTests/platform/tvOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1591,7 +1591,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)Tests";
-				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
+				PRODUCT_NAME = ArrayChangesTests;
 				SDKROOT = appletvos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -1648,7 +1648,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				INFOPLIST_FILE = Tests/TemplateFrameworkTests/platform/tvOS/Info.plist;
+				INFOPLIST_FILE = Tests/ArrayChangesTests/platform/tvOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1656,7 +1656,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.peter-barclay.$(PROJECT_NAME)Tests";
-				PRODUCT_NAME = "$(PROJECT_NAME)Tests";
+				PRODUCT_NAME = ArrayChangesTests;
 				SDKROOT = appletvos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -1670,7 +1670,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D0862173212FECDC00AD9D44 /* Build configuration list for PBXProject "TemplateFramework" */ = {
+		D0862173212FECDC00AD9D44 /* Build configuration list for PBXProject "ArrayChanges" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D0862174212FECDC00AD9D44 /* Debug */,
@@ -1679,7 +1679,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D086220D212FF11A00AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-iOS" */ = {
+		D086220D212FF11A00AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-iOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D0862209212FF11A00AD9D44 /* Debug */,
@@ -1688,7 +1688,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D086220E212FF11A00AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-iOSTests" */ = {
+		D086220E212FF11A00AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-iOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D086220B212FF11A00AD9D44 /* Debug */,
@@ -1697,7 +1697,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D0862225212FF13000AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-macOS" */ = {
+		D0862225212FF13000AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-macOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D0862226212FF13000AD9D44 /* Debug */,
@@ -1706,7 +1706,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D0862228212FF13000AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-macOSTests" */ = {
+		D0862228212FF13000AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-macOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D0862229212FF13000AD9D44 /* Debug */,
@@ -1715,7 +1715,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D0862235212FF14300AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-watchOS" */ = {
+		D0862235212FF14300AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-watchOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D0862236212FF14300AD9D44 /* Debug */,
@@ -1724,7 +1724,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D086224E212FF15D00AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-tvOS" */ = {
+		D086224E212FF15D00AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D086224F212FF15D00AD9D44 /* Debug */,
@@ -1733,7 +1733,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D0862251212FF15D00AD9D44 /* Build configuration list for PBXNativeTarget "TemplateFramework-tvOSTests" */ = {
+		D0862251212FF15D00AD9D44 /* Build configuration list for PBXNativeTarget "ArrayChanges-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D0862252212FF15D00AD9D44 /* Debug */,

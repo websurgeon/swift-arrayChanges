@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D086222F212FF14300AD9D44"
-               BuildableName = "TemplateFramework.framework"
-               BlueprintName = "TemplateFramework-watchOS"
-               ReferencedContainer = "container:TemplateFramework.xcodeproj">
+               BlueprintIdentifier = "D086223C212FF15D00AD9D44"
+               BuildableName = "ArrayChanges.framework"
+               BlueprintName = "ArrayChanges-tvOS"
+               ReferencedContainer = "container:ArrayChanges.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,7 +28,26 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D0862244212FF15D00AD9D44"
+               BuildableName = "ArrayChangesTests.xctest"
+               BlueprintName = "ArrayChanges-tvOSTests"
+               ReferencedContainer = "container:ArrayChanges.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D086223C212FF15D00AD9D44"
+            BuildableName = "ArrayChanges.framework"
+            BlueprintName = "ArrayChanges-tvOS"
+            ReferencedContainer = "container:ArrayChanges.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,10 +64,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D086222F212FF14300AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-watchOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BlueprintIdentifier = "D086223C212FF15D00AD9D44"
+            BuildableName = "ArrayChanges.framework"
+            BlueprintName = "ArrayChanges-tvOS"
+            ReferencedContainer = "container:ArrayChanges.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +82,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D086222F212FF14300AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-watchOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BlueprintIdentifier = "D086223C212FF15D00AD9D44"
+            BuildableName = "ArrayChanges.framework"
+            BlueprintName = "ArrayChanges-tvOS"
+            ReferencedContainer = "container:ArrayChanges.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

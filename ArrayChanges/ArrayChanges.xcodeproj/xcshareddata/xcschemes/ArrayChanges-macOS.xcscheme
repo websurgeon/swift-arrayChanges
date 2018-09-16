@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D086223C212FF15D00AD9D44"
-               BuildableName = "TemplateFramework.framework"
-               BlueprintName = "TemplateFramework-tvOS"
-               ReferencedContainer = "container:TemplateFramework.xcodeproj">
+               BlueprintIdentifier = "D0862213212FF13000AD9D44"
+               BuildableName = "ArrayChanges.framework"
+               BlueprintName = "ArrayChanges-macOS"
+               ReferencedContainer = "container:ArrayChanges.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0862244212FF15D00AD9D44"
-               BuildableName = "TemplateFrameworkTests.xctest"
-               BlueprintName = "TemplateFramework-tvOSTests"
-               ReferencedContainer = "container:TemplateFramework.xcodeproj">
+               BlueprintIdentifier = "D086221B212FF13000AD9D44"
+               BuildableName = "ArrayChangesTests.xctest"
+               BlueprintName = "ArrayChanges-macOSTests"
+               ReferencedContainer = "container:ArrayChanges.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D086223C212FF15D00AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-tvOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BlueprintIdentifier = "D0862213212FF13000AD9D44"
+            BuildableName = "ArrayChanges.framework"
+            BlueprintName = "ArrayChanges-macOS"
+            ReferencedContainer = "container:ArrayChanges.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -64,10 +64,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D086223C212FF15D00AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-tvOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BlueprintIdentifier = "D0862213212FF13000AD9D44"
+            BuildableName = "ArrayChanges.framework"
+            BlueprintName = "ArrayChanges-macOS"
+            ReferencedContainer = "container:ArrayChanges.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -82,10 +82,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D086223C212FF15D00AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-tvOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BlueprintIdentifier = "D0862213212FF13000AD9D44"
+            BuildableName = "ArrayChanges.framework"
+            BlueprintName = "ArrayChanges-macOS"
+            ReferencedContainer = "container:ArrayChanges.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

@@ -4,9 +4,9 @@
 
 import Foundation
 import XCTest
-import TemplateFramework
+import ArrayChanges
 
-class TemplateFrameworkTests: XCTestCase {
+class ArrayChangesTests: XCTestCase {
 
     func test_something() {
         let sut = TemplateValue()

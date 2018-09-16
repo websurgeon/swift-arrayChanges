@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D08621F6212FF11A00AD9D44"
-               BuildableName = "TemplateFramework.framework"
-               BlueprintName = "TemplateFramework-iOS"
-               ReferencedContainer = "container:TemplateFramework.xcodeproj">
+               BuildableName = "ArrayChanges.framework"
+               BlueprintName = "ArrayChanges-iOS"
+               ReferencedContainer = "container:ArrayChanges.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D08621FF212FF11A00AD9D44"
-               BuildableName = "TemplateFrameworkTests.xctest"
-               BlueprintName = "TemplateFramework-iOSTests"
-               ReferencedContainer = "container:TemplateFramework.xcodeproj">
+               BuildableName = "ArrayChangesTests.xctest"
+               BlueprintName = "ArrayChanges-iOSTests"
+               ReferencedContainer = "container:ArrayChanges.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D08621F6212FF11A00AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-iOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BuildableName = "ArrayChanges.framework"
+            BlueprintName = "ArrayChanges-iOS"
+            ReferencedContainer = "container:ArrayChanges.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,9 +65,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D08621F6212FF11A00AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-iOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BuildableName = "ArrayChanges.framework"
+            BlueprintName = "ArrayChanges-iOS"
+            ReferencedContainer = "container:ArrayChanges.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -83,9 +83,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D08621F6212FF11A00AD9D44"
-            BuildableName = "TemplateFramework.framework"
-            BlueprintName = "TemplateFramework-iOS"
-            ReferencedContainer = "container:TemplateFramework.xcodeproj">
+            BuildableName = "ArrayChanges.framework"
+            BlueprintName = "ArrayChanges-iOS"
+            ReferencedContainer = "container:ArrayChanges.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
